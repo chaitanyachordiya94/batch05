@@ -24,3 +24,4 @@ C:\Users\Dell\mywebapp\obj\Debug\net9.0\refint\mywebapp.dll
 C:\Users\Dell\mywebapp\obj\Debug\net9.0\mywebapp.pdb
 C:\Users\Dell\mywebapp\obj\Debug\net9.0\mywebapp.genruntimeconfig.cache
 C:\Users\Dell\mywebapp\obj\Debug\net9.0\ref\mywebapp.dll
+C:\Users\Dell\mywebapp\obj\Debug\net9.0\mywebapp.sourcelink.json

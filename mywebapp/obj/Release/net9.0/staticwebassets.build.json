@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "VJn7Dj2Gp30WCVENC7C8ELDuhjDeQgzKnAd3LQe95BI=",
+  "Source": "mywebapp",
+  "BasePath": "_content/mywebapp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "mywebapp\\wwwroot",
+      "Source": "mywebapp",
+      "ContentRoot": "C:\\Users\\Dell\\mywebapp\\wwwroot\\",
+      "BasePath": "_content/mywebapp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Dell\\mywebapp\\wwwroot\\index.html",
+      "SourceId": "mywebapp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\mywebapp\\wwwroot\\",
+      "BasePath": "_content/mywebapp",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\Dell\mywebapp\bin\Release\net9.0\publish\mywebapp.exe
+C:\Users\Dell\mywebapp\bin\Release\net9.0\publish\appsettings.Development.json
+C:\Users\Dell\mywebapp\bin\Release\net9.0\publish\appsettings.json
+C:\Users\Dell\mywebapp\bin\Release\net9.0\publish\mywebapp.dll
+C:\Users\Dell\mywebapp\bin\Release\net9.0\publish\mywebapp.deps.json
+C:\Users\Dell\mywebapp\bin\Release\net9.0\publish\mywebapp.runtimeconfig.json
+C:\Users\Dell\mywebapp\bin\Release\net9.0\publish\mywebapp.pdb
